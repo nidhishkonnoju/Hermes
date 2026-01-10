@@ -54,8 +54,6 @@ The main orchestrator—**The Director**—is powered by **Gemini 3 Pro** with a
 -   **Fully Iterative**: Every workflow supports back-and-forth refinement until you're satisfied
 -   **State Persistence**: Resume sessions anytime with full project state saved
 
-![Agent Workflow](/public/screenshots/agent-workflow.png)
-
 ```mermaid
 flowchart TB
     subgraph User["👤 USER"]
