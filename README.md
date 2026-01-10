@@ -332,6 +332,7 @@ The Director has access to a comprehensive toolkit:
 For production deployment targeting the corporate sector, we've built the expansion path.
 
 ![Syllabus Planning](/public/screenshots/syllabus-planning.png)
+![Deep Research Agent](/public/screenshots/deep-research-agent.png)
 
 ### Deep Research Agent
 
@@ -384,7 +385,7 @@ A complete agentic AI workflow from documents to syllabi to training videos.
 
 ```bash
 # Clone and install
-git clone https://github.com/your-repo/neuroflix.git
+git clone https://github.com/antoinekllee/neuroflix-gemini-hack.git
 cd neuroflix
 npm install
 
@@ -393,10 +394,6 @@ npm run dev
 ```
 
 ---
-
-## License
-
-MIT License – Built for the Google Gemini Hackathon
 
 ---
 
