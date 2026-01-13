@@ -395,6 +395,17 @@ npm run dev
 
 ---
 
+## License
+
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](./app/LICENSE.md).
+
+**What this means:**
+
+-   **Non-Commercial Use Only**: You may use, modify, and distribute this software for personal, educational, or non-profit purposes. You may not use it for business purposes or to generate revenue.
+-   **Source Availability**: If you distribute this software (modified or unmodified), you must provide the recipient with the source code and a copy of the license.
+
+For commercial licensing options, please contact [antoine@neuroflix.sg](mailto:antoine@neuroflix.sg).
+
 ---
 
 <p align="center">
