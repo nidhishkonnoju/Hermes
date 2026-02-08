@@ -71,4 +71,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the [PolyForm Noncommercial License 1.0.0](./app/LICENSE.md).
+License
+
+This project is based on neuroflix-gemini-hack by Antoine K. Lee. The original project is licensed under the PolyForm Noncommercial License 1.0.0.This repository contains modified versions of the original code and remains subject to the same license.Non-commercial use, modification, and redistribution are permitted under the terms of the license.
+Commercial use is not permitted without explicit permission from the original author. The full license text is included in this repository.
