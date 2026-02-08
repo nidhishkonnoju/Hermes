@@ -65,10 +65,6 @@
 4. **Generate Video**: Create video clips and let the system stitch them together.
 5. **Download**: Export your final video.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 License
